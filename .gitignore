@@ -1,0 +1,15 @@
+.venv/
+.venv-local/
+.playwright-cli/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+dist/
+data/
+.env
+.env.*
+!.env.example
+*.log
+*.pyc
+*.tsbuildinfo

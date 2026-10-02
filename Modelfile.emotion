@@ -1,0 +1,2 @@
+FROM hf.co/unsloth/Qwen3.6-35B-A3B-GGUF:UD-IQ3_S
+PARAMETER num_ctx 8192
