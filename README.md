@@ -8,6 +8,16 @@ A standalone showcase that runs on your computer, separate from CareForge.
 - Follow independent **Anxiety**, **Sadness**, and **Scared** gauges.
 - Explore saved conversations in an interactive constellation and timeline.
 
+## Screenshots
+
+### Emotion analytics
+
+![Emotion analytics with conversation filters and an interactive emotion constellation](docs/screenshots/emotion-analytics.png)
+
+### Chat and emotion gauges
+
+![Local chat with independent anxiety, sadness, and scared gauges](docs/screenshots/chat-emotion-gauges.png)
+
 ## Recommended models
 
 | Model | Used for | Download |
